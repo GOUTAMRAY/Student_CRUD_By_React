@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "name": "durjay ray",
+      "email": "goutamr362@gmail.com",
+      "age": "66",
+      "roll": "55",
+      "photo": "https://powerpackelements.com/wp-content/uploads/2017/11/Team-memeber-01.png",
+      "id": 2
+    },
+    {
+      "name": "rahim ali",
+      "email": "developergoutam53@gmail.com",
+      "age": "55",
+      "roll": "78",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO0PA-B7d86q1L1c1Rx-bvQHvhHpLvx6TO9pUUiNuVNSiK9UxKDHCOq_Fjrq57xp8-BB0&usqp=CAU",
+      "id": 3
+    },
+    {
+      "name": "Goutam ray ",
+      "email": "goutamr362@gmail.com",
+      "age": "24",
+      "roll": "3454654",
+      "photo": "https://scontent.fdac24-4.fna.fbcdn.net/v/t39.30808-6/414106459_3475329992734731_3497859754274018846_n.jpg?stp=dst-jpg_p843x403&_nc_cat=101&ccb=1-7&_nc_sid=3635dc&_nc_ohc=1P1v9tYfEy0AX_Q4Q3T&_nc_ht=scontent.fdac24-4.fna&oh=00_AfAooml6UgbRzpkKm3OpOT130RmtFjF3cJg0dpbzwjg61g&oe=658F25FD",
+      "id": 4
+    }
+  ]
+}
